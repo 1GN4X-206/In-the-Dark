@@ -1,0 +1,2 @@
+C:\Users\Ignacio_Velazquez\Documents\Unity\In The Dark\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Ignacio_Velazquez\Documents\Unity\In The Dark\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
